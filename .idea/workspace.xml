@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="add" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Array" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nimish555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nimish555/dsa_prac.git&quot;,
+    &quot;accountId&quot;: &quot;992de34e-08aa-4208-a4a4-6479705dddb5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Deph1A2A2LQGCJnboxBdaowHDJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Duplicate.executor": "Run",
+    "Application.check_sorted.executor": "Run",
+    "Application.consOnes.executor": "Run",
+    "Application.freeqCounbt.executor": "Run",
+    "Application.largest.executor": "Run",
+    "Application.linear.executor": "Run",
+    "Application.missing.executor": "Run",
+    "Application.move0end.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/searching/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.linear">
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Duplicate" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="consOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consOnes" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="freeqCounbt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freeqCounbt" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linear" />
+      <module name="searching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missing" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.linear" />
+        <item itemvalue="Application.freeqCounbt" />
+        <item itemvalue="Application.missing" />
+        <item itemvalue="Application.Duplicate" />
+        <item itemvalue="Application.consOnes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="" />
+      <created>1778652505007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778652505007</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1778949494246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778949494246</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1778950753212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778950753212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <option name="closed" value="true" />
+      <created>1780421423992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780421423992</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <option name="closed" value="true" />
+      <created>1780423613865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780423613865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <option name="closed" value="true" />
+      <created>1780509347394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780509347394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <option name="closed" value="true" />
+      <created>1781027417754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781027417754</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+</project>
