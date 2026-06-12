@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/Array" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/searching/src/secLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="push">
+      <change afterPath="$PROJECT_DIR$/searching/src/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching/src/min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching/src/secMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/countVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/countWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/string.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,40 +63,37 @@
     "Application.Duplicate.executor": "Run",
     "Application.check_sorted.executor": "Run",
     "Application.consOnes.executor": "Run",
+    "Application.countVowel.executor": "Run",
     "Application.freeqCounbt.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.linear.executor": "Run",
     "Application.missing.executor": "Run",
     "Application.move0end.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.reverse.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/searching/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/string/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.linear">
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Duplicate" />
-      <module name="Array" />
+  <component name="RunManager" selected="Application.countWord">
+    <configuration name="countVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countVowel" />
+      <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="consOnes" />
-      <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="freeqCounbt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="freeqCounbt" />
-      <module name="Array" />
+    <configuration name="countWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countWord" />
+      <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,20 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="missing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missing" />
-      <module name="Array" />
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome" />
+      <module name="string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse" />
+      <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countWord" />
+        <item itemvalue="Application.countVowel" />
+        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.reverse" />
         <item itemvalue="Application.linear" />
-        <item itemvalue="Application.freeqCounbt" />
-        <item itemvalue="Application.missing" />
-        <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.consOnes" />
       </list>
     </recent_temporary>
   </component>
@@ -176,11 +185,20 @@
       <option name="project" value="LOCAL" />
       <updated>1781027417754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="push">
+      <option name="closed" value="true" />
+      <created>1781030864315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781030864315</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
