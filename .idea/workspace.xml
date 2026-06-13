@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/string/src/countFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/firstnoRepeating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,33 +51,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Duplicate.executor": "Run",
-    "Application.check_sorted.executor": "Run",
-    "Application.consOnes.executor": "Run",
-    "Application.countFirst.executor": "Run",
-    "Application.countVowel.executor": "Run",
-    "Application.freeqCounbt.executor": "Run",
-    "Application.largest.executor": "Run",
-    "Application.linear.executor": "Run",
-    "Application.missing.executor": "Run",
-    "Application.move0end.executor": "Run",
-    "Application.palindrome.executor": "Run",
-    "Application.reverse.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/string/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.check_sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.consOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countFirst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countVowel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.freeqCounbt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.missing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.move0end.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverse.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/string/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.countFirst">
+}</component>
+  <component name="RunManager" selected="Application.firstnoRepeating">
     <configuration name="countFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="countFirst" />
       <module name="string" />
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindrome" />
+    <configuration name="firstnoRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstnoRepeating" />
       <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.firstnoRepeating" />
         <item itemvalue="Application.countFirst" />
         <item itemvalue="Application.reverse" />
         <item itemvalue="Application.countWord" />
         <item itemvalue="Application.countVowel" />
-        <item itemvalue="Application.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781287262229</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="push">
+      <option name="closed" value="true" />
+      <created>1781288767812</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781288767812</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
