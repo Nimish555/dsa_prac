@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="push">
+      <change afterPath="$PROJECT_DIR$/out/production/Array/Anagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/kadanes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/majorBYhalf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Array/stockSell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/countFirst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/countVowel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/countWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/firstnoRepeating.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/string/reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Array" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nimish555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nimish555/dsa_prac.git&quot;,
+    &quot;accountId&quot;: &quot;992de34e-08aa-4208-a4a4-6479705dddb5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Deph1A2A2LQGCJnboxBdaowHDJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Duplicate.executor": "Run",
+    "Application.check_sorted.executor": "Run",
+    "Application.consOnes.executor": "Run",
+    "Application.countFirst.executor": "Run",
+    "Application.countVowel.executor": "Run",
+    "Application.firstnoRepeating.executor": "Run",
+    "Application.freeqCounbt.executor": "Run",
+    "Application.largest.executor": "Run",
+    "Application.leader.executor": "Run",
+    "Application.linear.executor": "Run",
+    "Application.missing.executor": "Run",
+    "Application.move0end.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.reverse.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Acer/OneDrive/Desktop/coding/dsa_prac/string/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.leader">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countFirst" />
+      <module name="string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstnoRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstnoRepeating" />
+      <module name="string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leader" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse" />
+      <module name="string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.leader" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.firstnoRepeating" />
+        <item itemvalue="Application.countFirst" />
+        <item itemvalue="Application.reverse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="" />
+      <created>1778652505007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778652505007</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1778949494246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778949494246</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1778950753212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778950753212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <option name="closed" value="true" />
+      <created>1780421423992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780421423992</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <option name="closed" value="true" />
+      <created>1780423613865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780423613865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <option name="closed" value="true" />
+      <created>1780509347394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780509347394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <option name="closed" value="true" />
+      <created>1781027417754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781027417754</updated>
+    </task>
+    <task id="LOCAL-00007" summary="push">
+      <option name="closed" value="true" />
+      <created>1781030864315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781030864315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="push">
+      <option name="closed" value="true" />
+      <created>1781287262229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781287262229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="push">
+      <option name="closed" value="true" />
+      <created>1781288767812</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781288767812</updated>
+    </task>
+    <task id="LOCAL-00010" summary="push">
+      <option name="closed" value="true" />
+      <created>1781374056165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781374056165</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
+</project>
