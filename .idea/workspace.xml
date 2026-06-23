@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/string/src/longestRepeatingStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/LongestSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/groupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/longestComPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/consOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/consOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/string/src/countFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/countFirst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +60,14 @@
   "keyToString": {
     "Application.Anagram.executor": "Run",
     "Application.Duplicate.executor": "Run",
+    "Application.LongestSeq.executor": "Run",
     "Application.check_sorted.executor": "Run",
     "Application.consOnes.executor": "Run",
     "Application.countFirst.executor": "Run",
     "Application.countVowel.executor": "Run",
     "Application.firstnoRepeating.executor": "Run",
     "Application.freeqCounbt.executor": "Run",
+    "Application.groupAnagram.executor": "Run",
     "Application.largest.executor": "Run",
     "Application.leader.executor": "Run",
     "Application.linear.executor": "Run",
@@ -84,10 +90,29 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.longestRepeatingStr">
-    <configuration name="leader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leader" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\OneDrive\Desktop\coding\dsa_prac\Array\string\v" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.longestComPrefix">
+    <configuration name="LongestSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSeq" />
       <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="groupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="groupAnagram" />
+      <module name="string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestComPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestComPrefix" />
+      <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,13 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="optTwoDigi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optTwoDigi" />
-      <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="productExcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="productExcept" />
       <module name="Array" />
@@ -113,20 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twoSum" />
-      <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.longestComPrefix" />
+        <item itemvalue="Application.LongestSeq" />
+        <item itemvalue="Application.groupAnagram" />
         <item itemvalue="Application.longestRepeatingStr" />
         <item itemvalue="Application.productExcept" />
-        <item itemvalue="Application.optTwoDigi" />
-        <item itemvalue="Application.twoSum" />
-        <item itemvalue="Application.leader" />
       </list>
     </recent_temporary>
   </component>
