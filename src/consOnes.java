@@ -7,11 +7,9 @@ public class consOnes {
         oness(arr);
     }
     static void oness(int[] arr){
-
         int max = 0;
         int count = 0;
         for(int i = 0; i < arr.length; i++){
-
             if(arr[i] == 1){
 
                 count++;

@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class productExcept {
     static void main(String[] args) {
-
-
         int[] arr = {4 , 5 , 8 , 1 , 5};
         int n = arr.length;
         int[] ans  = new int[n];
@@ -19,7 +17,5 @@ public class productExcept {
         for(int x : ans){
             System.out.println(x + " ");
         }
-
-
     }
 }
