@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e9a305-4cc7-4c7d-94c9-5498b4c98cb7" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/Array/src/maxProdSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/TrapWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/threeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/consOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/consOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/productExcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/productExcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/consOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/consOnes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/productExcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/productExcept.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.Anagram.executor": "Run",
     "Application.Duplicate.executor": "Run",
     "Application.LongestSeq.executor": "Run",
+    "Application.TrapWater.executor": "Run",
     "Application.check_sorted.executor": "Run",
     "Application.consOnes.executor": "Run",
     "Application.countFirst.executor": "Run",
@@ -79,6 +80,7 @@
     "Application.palindrome.executor": "Run",
     "Application.productExcept.executor": "Run",
     "Application.reverse.executor": "Run",
+    "Application.threeSum.executor": "Run",
     "Application.twoSum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,17 +99,10 @@
       <recent name="C:\Users\Acer\OneDrive\Desktop\coding\dsa_prac\Array\string\v" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxProdSubarray">
-    <configuration name="LongestSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSeq" />
+  <component name="RunManager" selected="Application.TrapWater">
+    <configuration name="TrapWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrapWater" />
       <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="groupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="groupAnagram" />
-      <module name="string" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,13 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeSum" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrapWater" />
+        <item itemvalue="Application.threeSum" />
         <item itemvalue="Application.maxProdSubarray" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.longestComPrefix" />
-        <item itemvalue="Application.LongestSeq" />
-        <item itemvalue="Application.groupAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782236685305</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="push">
+      <option name="closed" value="true" />
+      <created>1782295434829</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782295434829</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
