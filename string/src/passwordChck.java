@@ -12,6 +12,19 @@ public class passwordChck {
         if(n<4){
             return 0;
         }
+         //pehla didgit intger to nhi
+        if(Character.isDigit(str.charAt(0))){
+            return 0;
+        }
+        boolean hasDigit = false;
+        boolean hasCapital = false;
 
+        for(int i = 0 ; i<n ; i++) {
+            char ch = str.charAt(i);
+
+            if (ch == ' ' || ch == '/'){
+                return 0;
+            }
+        }
     }
 }
