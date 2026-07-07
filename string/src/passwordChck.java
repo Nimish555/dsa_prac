@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class passwordChck {
+    static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        String str = sc.nextLine();
+        chck( str , n);
+    }
+
+    public static  int chck(String str , int n){
+        if(n<4){
+            return 0;
+        }
+
+    }
+}
