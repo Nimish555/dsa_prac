@@ -25,6 +25,13 @@ public class passwordChck {
             if (ch == ' ' || ch == '/'){
                 return 0;
             }
+
+            if(Character.isDigit(ch)){
+                hasDigit=true;
+            }
+            if(Character.isUpperCase(ch)){
+                hasCapital = true;
+            }
         }
     }
 }
