@@ -32,6 +32,13 @@ public class passwordChck {
             if(Character.isUpperCase(ch)){
                 hasCapital = true;
             }
+
+
+        }
+        if(hasDigit ==true && hasCapital == true){
+            return 1;
+        }else {
+            return 0;
         }
     }
 }
