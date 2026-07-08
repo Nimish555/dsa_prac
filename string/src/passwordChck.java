@@ -4,14 +4,17 @@ public class passwordChck {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.nextLine();      // newline consume
         String str = sc.nextLine();
         chck( str , n);
     }
+
 
     public static  int chck(String str , int n){
         if(n<4){
             return 0;
         }
+
          //pehla didgit intger to nhi
         if(Character.isDigit(str.charAt(0))){
             return 0;
